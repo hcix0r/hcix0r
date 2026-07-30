@@ -1,4 +1,3 @@
-`````markdown
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=900&color=1793D1&center=true&vCenter=true&width=900&lines=%24+boot.sh;Loading+Arch+Linux...;Launching+Hyprland...;Mounting+repositories...;Initializing+developer+profile...;Welcome+to+Aditya's+GitHub." />
@@ -51,7 +50,7 @@ WM          :: Hyprland
 Shell       :: zsh
 Editor      :: Neovim
 Stack       :: Next.js • TypeScript • Python • FastAPI
-Focus       :: AI Engineering • Frontend • Full Stack
+Focus       :: Frontend • Full Stack Engineering
 
 ────────────────────────────────────────────────────────────────────────────
 
@@ -71,11 +70,11 @@ Mission     :: Build products that people genuinely enjoy using.
 
 ## 👋 Hi, I'm Aditya
 
-Frontend-leaning **Full Stack Engineer** passionate about crafting polished user experiences with **Next.js, TypeScript, Tailwind CSS, FastAPI, and Python**.
+Frontend-leaning **Full Stack Engineer** building with **Next.js, TypeScript, Tailwind CSS, FastAPI, and Python**.
 
-🏆 **Scored 91.5 in Flipkart Gridlock 2.0** (Spatio-Temporal Traffic Prediction)
+🏆 **Scored 91.5/100 in Flipkart Gridlock 2.0** — Spatio-Temporal Traffic Prediction Challenge
 
-🌐 **Portfolio:** https://aditya-in-ai.vercel.app
+🌐 **Portfolio:** https://adityakumar-portfolio-website.netlify.app
 
 </div>
 
@@ -94,13 +93,10 @@ Music discovery platform powered by the iTunes API featuring animated gradients,
 
 ---
 
-### 🤖 Atelier AI
-Streaming AI chat SaaS built with Next.js + FastAPI featuring authentication, SSE streaming, and multi-model support.
-
----
-
 ### 🔐 MLSecVANET
-B.Tech thesis focused on machine-learning-based intrusion detection for Vehicular Ad Hoc Networks.
+B.Tech thesis on machine-learning-based intrusion detection for Vehicular Ad Hoc Networks.
+
+🔗 https://github.com/tychedaemon/MLSecVANET
 
 ---
 
@@ -109,8 +105,8 @@ $ git log --oneline -5
 ```
 
 ```
-✓ Built AI-powered applications
-✓ Designed polished frontend experiences
+✓ Designed and shipped polished frontend experiences
+✓ Built full-stack applications end to end
 ✓ Passionate about Open Source
 ✓ Linux enthusiast
 ✓ Shipping > Perfect
@@ -122,7 +118,7 @@ $ git log --oneline -5
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=typescript,python,cpp,nextjs,react,tailwind,nodejs,fastapi,postgres,docker,linux,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,nodejs,python,fastapi,postgres,docker,linux,git,github,vscode" />
 
 </div>
 
@@ -157,8 +153,8 @@ $ cat roadmap.md
 ```
 
 ```
-• Building production-grade AI applications
-• Learning distributed systems
+• Landing a frontend-leaning full-stack junior role
+• Building production-grade full-stack applications
 • Contributing to Open Source
 • Writing clean, maintainable code
 ```
@@ -177,7 +173,7 @@ $ cat roadmap.md
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://aditya-in-ai.vercel.app">
+<a href="https://adityakumar-portfolio-website.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -192,4 +188,3 @@ $ cat roadmap.md
 <img src="https://komarev.com/ghpvc/?username=tychedaemon&style=flat-square&color=1793D1"/>
 
 </div>
-`````
