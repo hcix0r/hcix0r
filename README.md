@@ -4,7 +4,7 @@
   
 <img align="right" height="269" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRqODgydjU3dG5vNzliYnQxcXhhbmhrNjZxY3Ftc2F2c2V5dXlwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytBoIyQ7ArpRirP0oh/giphy.gif" />
 
-## Hi, I'm Aditya
+## Hii, I'm Aditya
 
 leaning **Full Stack Dev** building with **Next.js, TypeScript, Tailwind CSS, FastAPI, and Python**.
 
@@ -79,7 +79,7 @@ Mission     :: Build products that people genuinely enjoy using.
 █ READY
 ```
 
-# Featured Projects
+# 🚀 Featured Projects
 
 ```text
 $ ls ~/projects
