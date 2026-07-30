@@ -1,3 +1,18 @@
+---
+
+<div align="center">
+  
+<img align="right" height="269" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRqODgydjU3dG5vNzliYnQxcXhhbmhrNjZxY3Ftc2F2c2V5dXlwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytBoIyQ7ArpRirP0oh/giphy.gif" />
+
+## 👋 Hi, I'm Aditya
+
+leaning **Full Stack Dev** building with **Next.js, TypeScript, Tailwind CSS, FastAPI, and Python**.
+
+🌐 **Portfolio:** https://adityakumar-portfolio-website.netlify.app
+
+</div>
+
+---
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=900&color=1793D1&center=true&vCenter=true&width=900&lines=%24+boot.sh;Loading+Arch+Linux...;Launching+Hyprland...;Mounting+repositories...;Initializing+developer+profile...;Welcome+to+Aditya's+GitHub." />
@@ -64,24 +79,6 @@ Mission     :: Build products that people genuinely enjoy using.
 █ READY
 ```
 
----
-
-<div align="center">
-  
-<img align="right" height="269" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRqODgydjU3dG5vNzliYnQxcXhhbmhrNjZxY3Ftc2F2c2V5dXlwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytBoIyQ7ArpRirP0oh/giphy.gif" />
-
-## 👋 Hi, I'm Aditya
-
-leaning **Full Stack Engineer** building with **Next.js, TypeScript, Tailwind CSS, FastAPI, and Python**.
-
-🏆 **Scored 91.5/100 in Flipkart Gridlock 2.0** — Spatio-Temporal Traffic Prediction Challenge
-
-🌐 **Portfolio:** https://adityakumar-portfolio-website.netlify.app
-
-</div>
-
----
-
 # 🚀 Featured Projects
 
 ```text
@@ -100,7 +97,7 @@ $ git log --oneline -5
 ```
 ✓ Designed and shipped polished frontend experiences
 ✓ Built full-stack applications end to end
-✓ Passionate about Open Source
+✓ Actively participating in Hackathons
 ✓ Linux enthusiast
 ✓ Shipping > Perfect
 ```
