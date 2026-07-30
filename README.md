@@ -16,7 +16,7 @@
 ║                        ██║      ██║   ╚██████╗██║  ██║███████╗             ║
 ║                        ╚═╝      ╚═╝    ╚═════╝╚═╝  ╚═╝╚══════╝             ║
 ║                                                                            ║
-║                    Build • Break • Learn • Repeat                          ║
+║                           Build • Break • Learn • Repeat                   ║
 ║                                                                            ║
 ╚════════════════════════════════════════════════════════════════════════════╝
 
@@ -70,7 +70,7 @@ Mission     :: Build products that people genuinely enjoy using.
 
 ## 👋 Hi, I'm Aditya
 
-Frontend-leaning **Full Stack Engineer** building with **Next.js, TypeScript, Tailwind CSS, FastAPI, and Python**.
+leaning **Full Stack Engineer** building with **Next.js, TypeScript, Tailwind CSS, FastAPI, and Python**.
 
 🏆 **Scored 91.5/100 in Flipkart Gridlock 2.0** — Spatio-Temporal Traffic Prediction Challenge
 
@@ -90,15 +90,6 @@ $ ls ~/projects
 Music discovery platform powered by the iTunes API featuring animated gradients, glassmorphism, weighted recommendations, favorites, and a clean provider architecture.
 
 🔗 https://github.com/tychedaemon/PlaySomething
-
----
-
-### 🔐 MLSecVANET
-B.Tech thesis on machine-learning-based intrusion detection for Vehicular Ad Hoc Networks.
-
-🔗 https://github.com/tychedaemon/MLSecVANET
-
----
 
 ```text
 $ git log --oneline -5
@@ -122,21 +113,8 @@ $ git log --oneline -5
 
 </div>
 
----
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tychedaemon&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tychedaemon&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Graph
+# 🐍 Contribution Snake
 
 <div align="center">
 
